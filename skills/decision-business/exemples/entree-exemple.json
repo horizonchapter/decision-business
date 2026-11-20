@@ -1,0 +1,17 @@
+{
+  "nom": "Boutique de stickers (cas fictif)",
+  "prix": {"valeur": 4.0, "etiquette": "HYPOTHÈSE", "source": "prix visé, non testé"},
+  "cout_achat": {"valeur": 1.2, "etiquette": "ESTIMÉ", "source": "devis imprimeur fictif"},
+  "livraison": {"valeur": 1.3, "etiquette": "ESTIMÉ", "source": "tarif lettre suivie fictif"},
+  "frais_pct": {"valeur": 2.0, "etiquette": "HYPOTHÈSE", "source": "frais de paiement courants"},
+  "frais_fixe": {"valeur": 0.25, "etiquette": "HYPOTHÈSE", "source": "frais de paiement courants"},
+  "taux_retours_pct": {"valeur": 3, "etiquette": "HYPOTHÈSE", "source": "aucune"},
+  "cac": {"valeur": 0.5, "etiquette": "HYPOTHÈSE", "source": "aucune, à mesurer"},
+  "taux_cotisations_pct": {"valeur": 10, "etiquette": "INCONNU", "source": "taux d'exemple, à remplacer par le taux officiel du jour"},
+  "couts_fixes_mensuels": {"valeur": 30, "etiquette": "ESTIMÉ", "source": "abonnement boutique fictif"},
+  "investissement": {"valeur": 100, "etiquette": "ESTIMÉ", "source": "stock de départ fictif"},
+  "ventes_mensuelles": {"valeur": 40, "etiquette": "HYPOTHÈSE", "source": "aucune, à mesurer"},
+  "horizon_mois": 3,
+  "heures_par_mois": {"valeur": 10, "etiquette": "ESTIMÉ", "source": "préparation des commandes"},
+  "seuils": {"budget_plafond": 300, "marge_nette_min": 0, "objectif_mensuel": 0, "horaire_min": 0}
+}
